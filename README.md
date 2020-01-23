@@ -1,6 +1,6 @@
 # Express app template
 
-This a basic repo to start an express project along with directory structure and babel environment
+This is a basic template to start an express project with directory structure and babel environment
 
 ## Available Scripts
 ### `npm run-script watch`
